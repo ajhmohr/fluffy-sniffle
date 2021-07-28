@@ -1,5 +1,5 @@
 ## script
-
+#adding something
 data = read.csv(file="~/Desktop/My Stuff/Research Final 2/Data Stuff/Real Data Stuff/data_final2.csv", header=T)
 
 ## data processing
